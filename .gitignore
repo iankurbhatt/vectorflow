@@ -1,0 +1,12 @@
+# Ignore environment variables (Protect your API key!)
+.env
+
+# Ignore the virtual environment folder
+.venv/
+venv/
+
+# Ignore the bulky database
+chroma_db/
+
+# Ignore Python cache files
+__pycache__/

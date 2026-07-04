@@ -1,0 +1,10 @@
+VectorFlow Corporation - Employee Policy Manual
+
+Section 1: Office Hours
+The standard work hours for all VectorFlow employees are from 10:00 AM to 4:00 PM, Monday through Thursday. Fridays are mandatory "no-meeting" days dedicated entirely to deep coding.
+
+Section 2: Pet Policy
+Employees are heavily encouraged to bring their pets to the office. However, iguanas are strictly prohibited in the server room due to the incident in 2024.
+
+Section 3: Equipment Budget
+Every new AI Engineer is allocated a $5,000 budget to purchase mechanical keyboards and ultra-wide monitors.
